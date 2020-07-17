@@ -20,7 +20,7 @@
   "dependencies": {
     "bluebird": "^3.3.4",
     "htmlencode": "^0.0.4",
-    "request": "^2.83.0"
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "babel-core": "^6.7.4",
